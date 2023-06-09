@@ -39,3 +39,7 @@ Link para o Github Pages do repositório: [https://luca-moraes.github.io/projeto
 ### Visualização prévia do diagrama de estado Reator:
 
 ![Diagrama de estado Reator](https://github.com/luca-moraes/projetoReatorModelagem/blob/main/images/diagramaEstadoReator.png)
+
+### Visualização prévia do diagrama de estado TanqueNaOH_EtOH:
+
+![Diagrama de estado TanqueNaOH_EtOH](https://github.com/luca-moraes/projetoReatorModelagem/blob/main/images/diagramaEstadoTanqueNaOHEtOH.png)
