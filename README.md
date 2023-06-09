@@ -43,3 +43,28 @@ Link para o Github Pages do repositório: [https://luca-moraes.github.io/projeto
 ### Visualização prévia do diagrama de estado TanqueNaOH_EtOH:
 
 ![Diagrama de estado TanqueNaOH_EtOH](https://github.com/luca-moraes/projetoReatorModelagem/blob/main/images/diagramaEstadoTanqueNaOHEtOH.png)
+
+### Visualização prévia do diagrama de estado Decantador:
+
+![Diagrama de estado Decantador](https://github.com/luca-moraes/projetoReatorModelagem/blob/main/images/diagramaEstadoDecantador.png)
+
+### Visualização prévia do diagrama de estado TanqueEtOH:
+
+![Diagrama de estado TanqueEtOH](https://github.com/luca-moraes/projetoReatorModelagem/blob/main/images/diagramaEstadoTanqueEtOH.png)
+
+### Visualização prévia do diagrama de estado TanqueGlicerina:
+
+![Diagrama de estado TanqueGlicerina](https://github.com/luca-moraes/projetoReatorModelagem/blob/main/images/diagramaEstadoTanqueGlicerina.png)
+
+### Visualização prévia do diagrama de estado TanqueLavagem:
+
+![Diagrama de estado TanqueLavagem](https://github.com/luca-moraes/projetoReatorModelagem/blob/main/images/diagramaEstadoTanqueLavagem.png)
+
+### Visualização prévia do diagrama de estado Secador:
+
+![Diagrama de estado Secador](https://github.com/luca-moraes/projetoReatorModelagem/blob/main/images/diagramaEstadoSecador.png)
+
+### Visualização prévia do diagrama de estado TanqueBiodiesel:
+
+![Diagrama de estado TanqueBiodiesel](https://github.com/luca-moraes/projetoReatorModelagem/blob/main/images/diagramaEstadoTanqueBiodiesel.png)
+
