@@ -25,3 +25,17 @@ Link para o Github Pages do repositório: [https://luca-moraes.github.io/projeto
 ### Visualização prévia do diagrama de sequência Iniciar processo:
 
 ![Diagrama de sequência Iniciar processo](https://github.com/luca-moraes/projetoReatorModelagem/blob/main/images/diagramaSequencia.png)
+
+## Visualização prévia dos diagramas de estado:
+
+### Visualização prévia do diagrama de estado Filtro:
+
+![Diagrama de estado Filtro](https://github.com/luca-moraes/projetoReatorModelagem/blob/main/images/diagramaEstadoFiltro.png)
+
+### Visualização prévia do diagrama de estado TanqueOleo:
+
+![Diagrama de estado TanqueOleo](https://github.com/luca-moraes/projetoReatorModelagem/blob/main/images/diagramaEstadoTanqueOleo.png)
+
+### Visualização prévia do diagrama de estado Reator:
+
+![Diagrama de estado Reator](https://github.com/luca-moraes/projetoReatorModelagem/blob/main/images/diagramaEstadoReator.png)
