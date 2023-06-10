@@ -70,6 +70,6 @@ Link para o Github Pages do repositório: [https://luca-moraes.github.io/projeto
 
 ## Visualização prévia dos diagramas de atividade:
 
-### Visualização prévia do diagrama de atividade Iniciar processo:
+### Visualização prévia do diagrama de atividade IniciarProcesso:
 
-![Diagrama de atividade Iniciar processo](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/diagramaAtividadeIniciarProcesso.png)
+![Diagrama de atividade IniciarProcesso](https://github.com/luca-moraes/projetoReatorModelagem/blob/main/images/diagramaAtividadeIniciarProcesso.png)
