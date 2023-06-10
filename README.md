@@ -68,3 +68,8 @@ Link para o Github Pages do repositório: [https://luca-moraes.github.io/projeto
 
 ![Diagrama de estado TanqueBiodiesel](https://github.com/luca-moraes/projetoReatorModelagem/blob/main/images/diagramaEstadoTanqueBiodiesel.png)
 
+## Visualização prévia dos diagramas de atividade:
+
+### Visualização prévia do diagrama de atividade Iniciar processo:
+
+![Diagrama de atividade Iniciar processo](https://github.com/luca-moraes/projetoCrawlerModelagem/blob/main/images/diagramaAtividadeIniciarProcesso.png)
